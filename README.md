@@ -1,4 +1,4 @@
-### Portfolio
+### Hello
 
-[Link test](./projects.md)\
-[Link test 2](./research.md)
+[Portfolio](./projects.md)\
+[Research Projects](./research.md)
