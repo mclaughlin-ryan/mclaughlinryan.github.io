@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-      "gatsby": "^1.9.xxx"
-  },
-  "scripts": {
-      "deploy": "gatsby build && gh-pages -d public -b main"
-  }
-}
