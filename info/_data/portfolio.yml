@@ -1,0 +1,21 @@
+- title: Project 1
+  demo: https://github.com/
+  code: https://github.com/
+  description: This is one of my projects.
+  img: image1
+  used:
+    - thing: language 1
+    - thing: language 2
+    - thing: package 1
+    - thing: resource 1
+
+# - title: Project 2
+#   demo: https://github.com/
+#   code: https://github.com/
+#   description: This is another one of my projects.
+#   img: image2
+#   used:
+#     - thing: language 1
+#     - thing: language 2
+#     - thing: language 3
+#     - thing: language 4

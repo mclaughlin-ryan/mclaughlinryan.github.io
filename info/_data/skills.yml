@@ -1,0 +1,19 @@
+development:
+  - item: language 1
+  - item: language 2
+  - item: language 3
+
+design:
+  - item: design tool 1
+  - item: design tool 2
+  - item: design tool 3
+
+tools:
+  - item: tool 1
+  - item: tool 2
+  - item: tool 3
+
+knowledge:
+  - item: knowledge area 1
+  - item: knowledge area 2
+  - item: knowledge area 3

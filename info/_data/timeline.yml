@@ -1,0 +1,13 @@
+- position: Worker
+  company: Company &amp; Company Division
+  url: http://www.google.com
+  description: Worker at Company doing cool things.</strong>
+  sprite: industry
+  date: Sometime - Sometime
+
+#- position: Programmer
+#  company: Company 2 &amp; Company Division
+#  url: http://www.github.com
+#  description: I did some program in academia.
+#  sprite: research
+#  date: Sometime - Sometime

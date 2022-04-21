@@ -1,0 +1,19 @@
+- row: row1
+  services:
+    - heading: Website Creation
+      sprite: webdev
+      text: Making smoothly-functioning, user-friendly websites with ease of navigation and an intuitive feel.
+
+#    - heading: Design
+#      sprite: ui
+#      text: <strong><em>Description</em></strong> More description.
+
+- row: row2
+  services:
+    - heading: Tech Info
+      sprite: xd
+      text: Discussing and reflecting on the latest developments in tech.
+
+#    - heading: Involvement
+#      sprite: wit
+#      text: I have been an active member of this organization as well.
