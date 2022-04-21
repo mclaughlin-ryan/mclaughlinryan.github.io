@@ -1,6 +1,6 @@
 # Portfolio Site
 
-Welcome to this site, featuring a portfolio of a various of past work and projects.
+Welcome to this site featuring a portfolio of various past work and projects.
 
 <!--## Getting started-->
 <!--- `npm install gulp-cli -g`-->
