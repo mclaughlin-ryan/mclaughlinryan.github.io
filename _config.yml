@@ -1,8 +1,8 @@
 # Site settings
 name: Name Here
 title: Name Here | Position
-description: A former engineering student.
-url: http://github.com
+description: Former engineering student.
+url: http://google.com
 baseurl: "/mclaughlinryan.github.io"
 email: email@gmail.com
 #cover: http://brittanychiang.com/v2/img/og.jpg
@@ -10,7 +10,7 @@ email: email@gmail.com
 #resume: http://brittanychiang.com/v2/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:email@gmail.com
   - title: twitter
     url: https://twitter.com/
   - title: instagram

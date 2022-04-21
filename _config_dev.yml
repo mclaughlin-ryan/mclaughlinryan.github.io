@@ -1,8 +1,8 @@
 # Site settings
 name: Name Here
-title: Name Here | Position
-description: A former engineering student.
-url: http://github.com
+title: Name Here | Positions
+description: Former engineering student.
+url: http://google.com
 baseurl: "/mclaughlinryan.github.io"
 email: email@gmail.com
 #cover: http://brittanychiang.com/v2/img/og.jpg
